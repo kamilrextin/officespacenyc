@@ -2616,10 +2616,12 @@ fieldset[disabled] .btn-link:focus {
 }
 
 .btn-lg {
-  padding: 10px 16px;
+  padding: 15px 70px;
   font-size: 18px;
   line-height: 1.33;
   border-radius: 6px;
+  background-color: #1fa561;
+  color: white;
 }
 
 .btn-sm {
